@@ -85,4 +85,6 @@ Ce projet est personnel et destiné à la présentation professionnelle de Fulbe
 ---
 
 *Créé par Fulbert KAKA*
-[lien](https://oslk-fs.github.io/CV.fulbert.kaka/)
+
+---
+(https://oslk-fs.github.io/CV.fulbert.kaka/)
